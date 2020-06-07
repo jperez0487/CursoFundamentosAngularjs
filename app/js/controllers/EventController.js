@@ -22,7 +22,7 @@ eventsApp.controller('EventController',
                 {
                     name : 'Kenyo Perez introductory',
                     creatorName : 'Pedrito Gonzales',
-                    duration : ' 8 Horas',
+                    duration : 1,
                     level : 'Advanced',
                     abstract : 'Dark Dark Dark Full House Fuller House Chivi mi barri0 monterrico es el mejor jajaja ya sabes muchachos, asi que cualquier campeonato estamos ahi mismo por tal motivo cuando el barco se hundio nunca hubieron almunos del colegio santa isabel para poder levantar tremendo desastre',
                     upVoteCount : 0
@@ -30,7 +30,7 @@ eventsApp.controller('EventController',
                 {
                     name : 'Juan Ramirez ',
                     creatorName : 'Goku de la piedra',
-                    duration : ' 5 Horas',
+                    duration : 2,
                     level : 'Introductory',
                     abstract : 'Dark Dark Dark Full House Fuller House Chivi mi barri0 monterrico es el mejor jajaja ya sabes muchachos, asi que cualquier campeonato estamos ahi mismo por tal motivo cuando el barco se hundio nunca hubieron almunos del colegio santa isabel para poder levantar tremendo desastre',
                     upVoteCount : 0
@@ -38,7 +38,7 @@ eventsApp.controller('EventController',
                 {
                     name : 'Milagros Leiva ',
                     creatorName : 'Kamizama Ramirez',
-                    duration : ' 3 Horas',
+                    duration : 4,
                     level : 'Intermediate',
                     abstract : 'Dark Dark Dark Full House Fuller House Chivi mi barri0 monterrico es el mejor jajaja ya sabes muchachos, asi que cualquier campeonato estamos ahi mismo por tal motivo cuando el barco se hundio nunca hubieron almunos del colegio santa isabel para poder levantar tremendo desastre',
                     upVoteCount : 0
